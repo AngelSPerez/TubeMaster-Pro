@@ -8,7 +8,7 @@ Entre sus principales características se encuentran:
 - Descarga de listas de reproducción completas.  
 - Descarga simultánea de varios videos.  
 
-Todo esto de la plataforma de videos y musica YouTube.com
+Todo esto en la plataforma de videos y musica YouTube.com
 
 ---
 
