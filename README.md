@@ -1,2 +1,20 @@
 # TubeMaster-Pro
-Este es un programa con una UI (Interfaz gráfica) simple, pero es un programa potente y sin planes de pago que puede descargar videos en todas resoluciones, convertir esos videos a otros formatos, descargar listas de reproducción completas y descargar varios videos al mismo tiempo.
+
+**TubeMaster-Pro** es una aplicación con una interfaz gráfica sencilla, pero con gran potencia.  
+Entre sus principales características se encuentran:
+
+- Descarga de videos en todas las resoluciones disponibles.  
+- Conversión de videos a múltiples formatos.  
+- Descarga de listas de reproducción completas.  
+- Descarga simultánea de varios videos.  
+
+Todo esto de la plataforma de videos y musica YouTube.com
+
+---
+
+## ⚠️ Advertencia
+
+Este programa fue creado únicamente como un **proyecto experimental**, sin fines de producción ni comerciales.  
+El uso de esta herramienta para descargar contenido protegido por derechos de autor **puede ser ilegal e inmoral**.  
+
+**Úsalo bajo tu propia responsabilidad.**
